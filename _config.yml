@@ -18,7 +18,7 @@ title: "Jepkemboi Nahum" # the main title
 
 tagline: Ethical Hacker| Penetration Tester # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
+description: # used by seo meta and the atom feed
 "I’m a Cybersecurity Enthusiast currently pursuing an Ethical Hacking course, passionate about safeguarding digital systems and data. I enjoy exploring system vulnerabilities, penetration testing, and learning new tools that strengthen cyber defenses. My focus is on ethical hacking, threat analysis, and secure system design. I thrive on solving complex security challenges and applying practical knowledge to real-world situations. Driven by curiosity and continuous learning, I’m building a career dedicated to making the digital world safer."
 
 # Fill in the protocol & hostname for your site.
