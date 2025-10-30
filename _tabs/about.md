@@ -1,8 +1,13 @@
 ---
 # the default layout is 'page'
+titlle: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I am Nahum Jepkemboi  a Cyber security enthusiast.
+- Skilled in web design
+- Cyber Threat management
+- Passionate about ethical hacking
+- Building a safe cyber space
+- Exploring AI ad ML
