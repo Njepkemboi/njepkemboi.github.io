@@ -1,5 +1,5 @@
 ---
-tittle:"Introduction to web design"
+tittle: "Introduction to web design"
 date: 2025-10-30 
 categories: [Web,Cybersecurity]
 tags: [xss,sql-injection]
