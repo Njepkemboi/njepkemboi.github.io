@@ -9,37 +9,36 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone: # e.g. "Africa/Nairobi"
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: "Jepkemboi Nahum" # the main title
 
-tagline: Ethical Hacker | Penetration Tester # it will display as the subtitle
+tagline: "Ethical Hacker | Penetration Tester" # it will display as the subtitle
 
-description: # used by seo meta and the atom feed
-"I am a Cybersecurity Enthusiast currently pursuing an Ethical Hacking course, passionate about safeguarding digital systems and data. I enjoy exploring system vulnerabilities, penetration testing, and learning new tools that strengthen cyber defenses. My focus is on ethical hacking, threat analysis, and secure system design. I thrive on solving complex security challenges and applying practical knowledge to real-world situations. Driven by curiosity and continuous learning, I’m building a career dedicated to making the digital world safer."
+description: "I am a Cybersecurity Enthusiast currently pursuing an Ethical Hacking course, passionate about safeguarding digital systems and data. I enjoy exploring system vulnerabilities, penetration testing, and sharing knowledge in cybersecurity." # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://njepkemboi.github.io/"
+url: "https://njepkemboi.github.io"
 
 github:
   username: Njepkemboi # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: Njepkemboi # change to your Twitter username
 
 social: 
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Nahum Jepkemboi
+  name: "Nahum Jepkemboi"
   email: nahumjepkemboi@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/njepkemboi # change to your GitHub homepage
+    - https://twitter.com/Njepkemboi # change to your Twitter homepage
+    - https://github.com/Njepkemboi # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/nahum-jepkemboi
@@ -116,13 +115,13 @@ comments:
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
+    issue_term: # <url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo_id: # fill with your repo_id
+    category: # fill with your category
+    category_id: # fill with your category_id
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
