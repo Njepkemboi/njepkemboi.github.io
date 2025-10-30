@@ -1,9 +1,8 @@
-
 ---
 title: "Ways to Stay Safe Online"
 date: 2025-10-30
 categories: [Web, Cybersecurity]
-tags: [xss, sql-injection, online-safety, cyber-awareness]
+tags: [online-safety, cyber-awareness]
 ---
 
 ## Introduction  
@@ -87,4 +86,4 @@ Staying safe online starts with awareness, good habits, and consistent practice.
 
 As a cybersecurity enthusiast or ethical hacker, remember that online safety isn’t just about protection — it’s about **empowerment**. Every safe click contributes to a safer internet for everyone.  
 
- **Stay informed. Stay alert. Stay secure. **
+ Stay informed. Stay alert. Stay secure. 
