@@ -1,5 +1,4 @@
 ---
-# the default layout is 'page'
 titlle: About
 icon: fas fa-info-circle
 order: 4
