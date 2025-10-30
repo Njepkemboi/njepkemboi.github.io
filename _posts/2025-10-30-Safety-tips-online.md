@@ -20,7 +20,7 @@ A strong password is your first defense against unauthorized access.
 - Never reuse the same password across different sites.  
 - Consider using a **password manager** to keep track of your credentials.  
 
-> 💡 **Tip:** Always enable **multi-factor authentication (MFA)** for added protection.
+**Tip:** Always enable **multi-factor authentication (MFA)** for added protection.
 
 ---
 
